@@ -1,0 +1,10 @@
+.build/
+build/
+.DS_Store
+
+# repo-distill: local evidence brief, regenerated on demand
+.distill/.evidence.md
+
+# backlog: generated on demand; committing it would conflict between agents.
+backlog/INDEX.md
+.backlog-state/

@@ -1,0 +1,6 @@
+# repo-distill manifest, consumed by check-freshness.sh. Do not hand-edit.
+sources_sha=6bfffe080721b66bf58cd5b833177244f295387740c495ebec832ad97f3507e4
+agents_block_sha=b9fbe8dfc3b955dbdb888a10b3b3a6800595f060af13c7ef707334dc8431dc11
+copilot_sha=01a9699c2d0e26593c46c97b99dfdb6682a17fb02a49596d34638f047889d8a2
+rendered_repo_state=uncommitted
+adapters=AGENTS.md CLAUDE.md .github/copilot-instructions.md
